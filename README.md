@@ -1,2 +1,2 @@
 # kepler
-Tools for retrieve NASA Kepler exoplanet archieve data.
+Tools for retrieving NASA Kepler exoplanet archieve data.
